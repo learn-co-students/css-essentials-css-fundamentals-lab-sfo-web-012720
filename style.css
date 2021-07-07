@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+head {
+  align-items: center;
+}
+a {
+  padding: 10px;
+  background: green;
+}
+img[title="Welcome to Exceptional Realty Group"] {
+  font-size: 10px;
+}
+p#featured-property{
+  width: 800px;
+  align-items: center;
+}
+div#details {
+  display: block;
+  float: left;
+}
